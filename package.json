@@ -1,0 +1,18 @@
+{
+  "name": "fft-stream",
+  "version": "0.0.0",
+  "description": "A stream that transforms SDR I/Q samples into the frequency domain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sdr",
+    "radio",
+    "iq",
+    "frequency",
+    "hackrf"
+  ],
+  "author": "Matt Bell <mappum@gmail.com>",
+  "license": "MIT"
+}
